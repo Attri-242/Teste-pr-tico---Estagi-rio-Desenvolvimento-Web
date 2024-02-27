@@ -30,7 +30,7 @@ Instruções:
     Utilize o Bootstrap, se desejar.
     Otimize o site para SEO, se possível.
     Suba o resultado final no GitHub.
-    Envie o link do repositório GitHub para o email [estevao.santos@attri.com.br].
+    Envie o link do repositório GitHub para o email citado no mensagem recebida.
 
 Critérios de Avaliação:
 
